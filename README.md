@@ -1,1 +1,1 @@
-A  web dev
+New day learned nextjs navigation app router and much more
